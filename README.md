@@ -1,0 +1,2 @@
+# Youth's-Inn-Management-System
+ The Youth's Inn Management System, crafted in Java, expertly combines Data Structures and Algorithms (DSA) concepts such as Linked Lists with core aspects of File Handling and Inheritance. This project marries DSA with Graphical User Interface (GUI) elements to offer an aesthetically pleasing and efficient hostel management system. Its features include reservations, room assignments, additional services, and an admin login interface.
