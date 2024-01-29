@@ -28,8 +28,3 @@ feedback to deduce the correct sequence of colors. The game will have a set numb
 of rounds, and the player's score will be based on how quickly they are able to 
 correctly guess the sequence.
 
-
-OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
